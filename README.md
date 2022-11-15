@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png" group-title="ESPAÃ‘A",ES: PARAMOUNT
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59902
 
-#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="" group-title="Movies ENG",DHE
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/88415
-
 #EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinecanal-us.png" group-title="CINE PREMIUM ES",CINECANAL
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59082
 
@@ -35,12 +32,6 @@ http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140161
 
 #EXTINF:-1 tvg-id="I659.122761.schedulesdirect.org" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",UNIVERSAL PREMIER
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140163
-
-#EXTINF:-1 tvg-id="I658.122765.schedulesdirect.org" tvg-name="UNIVERSAL CRIMEN" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",UNIVERSAL CRIMEN
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140164
-
-#EXTINF:-1 tvg-id="I660.122763.schedulesdirect.org" tvg-name="UNIVERSAL REALITY" tvg-logo="https://www.lyngsat.com/logo/tv/uu/universal-channel-america-latina-us.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",UNIVERSAL REALITY
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140165
 
 #EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="SONY CINE US" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",SONY CINE US
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140263
