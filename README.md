@@ -9,9 +9,6 @@ http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/126315
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL MX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-channel-us.png" group-title="CINE PREMIUM ES",STAR CHANNEL MX
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59119
 
-#EXTINF:-1 tvg-id="" tvg-name="AMC ESP" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="CINE PREMIUM ES",AMC ESP
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59121
-
 #EXTINF:-1 tvg-id="I500.60801.schedulesdirect.org" tvg-name="SPACE MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_mx.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",SPACE MEXICO
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140157
 
