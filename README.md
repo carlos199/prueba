@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png" group-title="ESPAÃ‘A",ES: PARAMOUNT
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59902
 
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo San Fco" tvg-logo="" group-title="LATINOS USA",Telemundo San Fco
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/83130
-
 #EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="" group-title="Movies ENG",DHE
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/88415
 
