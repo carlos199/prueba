@@ -15,12 +15,6 @@ http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59121
 #EXTINF:-1 tvg-id="I500.60801.schedulesdirect.org" tvg-name="SPACE MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_mx.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",SPACE MEXICO
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140157
 
-#EXTINF:-1 tvg-id="I167.74906.schedulesdirect.org" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",UNIVERSAL COMEDY
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140161
-
-#EXTINF:-1 tvg-id="I659.122761.schedulesdirect.org" tvg-name="UNIVERSAL PREMIER" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",UNIVERSAL PREMIER
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140163
-
 #EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="SONY CINE US" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",SONY CINE US
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140263
 
