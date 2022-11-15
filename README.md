@@ -48,9 +48,6 @@ http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140263
 #EXTINF:-1 tvg-id="I112.16141.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",CARTOON NETWORK
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140142
 
-#EXTINF:-1 tvg-id="" tvg-name="HAMMYS BOOMERANG ADVENTURE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrF4W4nHbgZ1G4Dj2G1fQYU8N0t.jpg" group-title="INFANTIL MIX",HAMMYS BOOMERANG ADVENTURE
-http://allstar.is-by.us:25461/movie/71929382/E4orkzRTQZ/73652.mkv
-
 #EXTINF:-1 tvg-id="I572.49141.zap2it.com" tvg-name="MTV LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_us.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",MTV LIVE
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140186
 
