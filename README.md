@@ -9,12 +9,6 @@ http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140157
 #EXTINF:-1 tvg-id="I386.69091.schedulesdirect.org" tvg-name="SONY CINE US" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",SONY CINE US
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140263
 
-#EXTINF:-1 tvg-id="I112.16141.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",CARTOON NETWORK
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140142
-
-#EXTINF:-1 tvg-id="I599.72294.schedulesdirect.org" tvg-name="Teen Nick" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teen_nick_us.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",Teen Nick
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140147
-
 #EXTINF:-1 tvg-id="" tvg-name="BitMe SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bitme-mx.png" group-title="MEXICO",BitMe SD
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59160
 
