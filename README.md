@@ -6,12 +6,6 @@ http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140181
 #EXTINF:-1 tvg-id="" tvg-name="US |  HBO LATINO R" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png" group-title="CINE PREMIUM ES",US |  HBO LATINO R
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/126315
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 MX" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png" group-title="MEXICO",HBO 2 MX
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59064
-
-#EXTINF:-1 tvg-id="I354.82003.schedulesdirect.org" tvg-name="HBO PLUS US" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png" group-title="âš¡ï¸ENCODER DISPOSITIVOS 4K ",HBO PLUS US
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/140274
-
 #EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL MX" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-channel-us.png" group-title="CINE PREMIUM ES",STAR CHANNEL MX
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59119
 
