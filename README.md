@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png" group-title="ESPAÃ‘A",ES: PARAMOUNT
-http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59902
-
 #EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinecanal-us.png" group-title="CINE PREMIUM ES",CINECANAL
 http://allstar.is-by.us:25461/71929382/E4orkzRTQZ/59082
 
